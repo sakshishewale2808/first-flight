@@ -1,0 +1,13 @@
+.navbar-container{
+    background-color:white;
+    padding:5px 10px;
+    box-shadow:1px 3px 2px black;
+}
+.content{
+    margin:20px;
+    text-decoration: none;
+    color:red;
+    font-weight: 20px;
+    background-color: yellow;
+    border-radius: 10px;
+}
